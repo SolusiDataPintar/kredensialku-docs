@@ -121,7 +121,7 @@ Document id is a string which make document unique, document id usually generate
 
 Document id placeholder usually will present in the template.
 
-![Graduation Paper](https://github.com/SolusiDataPintar/kredensialku-docs/master/images/Ijazah-SMK.webp?raw=true)
+![Graduation Paper](https://raw.githubusercontent.com/SolusiDataPintar/kredensialku-docs/master/images/Ijazah-SMK.webp)
 
 We can see above example graduation paper has Document ID as "M-SMK/06-3/0000001" on the bottom center of the document.
 
