@@ -183,6 +183,9 @@ Kredensialku has two main services
         - name: context
           type: string
           nullable: false
+        - name: timestamp
+          type: string
+          format: RFC3339
     - code: 400
       type: JSON
       data:
@@ -257,6 +260,9 @@ Kredensialku has two main services
             - name: context
               type: string
               nullable: false
+            - name: timestamp
+              type: string
+              format: RFC3339
     - code: 400
       type: JSON
       data:
