@@ -576,10 +576,6 @@ Kredensialku has two main services
               format: alphanumeric 8 digits, length can change in future
               nullable: false
               description: Will not change if document is updated.
-            - name: pdf
-              type: string
-              format: base64
-              nullable: false
             - name: email
               type: string
               format: email
@@ -670,10 +666,6 @@ Kredensialku has two main services
               format: alphanumeric 8 digits, length can change in future
               nullable: false
               description: Will not change if document is updated.
-            - name: pdf
-              type: string
-              format: base64
-              nullable: false
             - name: email
               type: string
               format: email
